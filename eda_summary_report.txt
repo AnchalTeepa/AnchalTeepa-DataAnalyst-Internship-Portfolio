@@ -1,0 +1,34 @@
+# EDA SUMMARY REPORT
+
+Project: Exploratory Data Analysis & Business Intelligence
+
+Total Records: 1000
+Total Columns: 21
+
+Missing Values:
+
+* No missing values found.
+
+Duplicate Rows:
+
+* No duplicate records found.
+
+Key Statistics:
+
+* Average Order Value: ₹139399.03
+* Most Frequently Sold Product: Mobile
+* Highest Revenue Category: Electronics
+
+Analysis Performed:
+
+* Data quality assessment
+* Descriptive statistics
+* Sales distribution analysis
+* Top product analysis
+* Category-wise revenue analysis
+* Monthly sales trend analysis
+* Correlation analysis
+* Outlier detection
+
+Conclusion:
+The dataset is clean, consistent, and ready for business intelligence reporting and dashboard development.
