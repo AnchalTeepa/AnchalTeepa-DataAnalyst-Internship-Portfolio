@@ -1,0 +1,52 @@
+======================================================================
+APEXPLANET SALES DATASET — DATA QUALITY REPORT
+======================================================================
+
+Raw shape: 1000 rows x 12 columns
+
+--- Missing values (raw) ---
+Order_ID          0
+Order_Date        0
+Customer_ID       0
+Customer_Name     0
+Age              20
+Gender            0
+City             13
+Product           0
+Category          0
+Quantity          0
+Unit_Price        0
+Total_Sales       0
+
+Rows sharing a duplicated Order_ID: 9
+
+Order_IDs re-keyed to restore uniqueness: 8
+Age missing values imputed with median (41): 20
+City missing values labeled 'Unknown': 13
+
+Total_Sales statistical outliers flagged: 19
+
+--- Post-cleaning missing values ---
+Order_ID                 0
+Order_Date               0
+Order_Year               0
+Order_Month              0
+Order_Quarter            0
+Order_Weekday            0
+Customer_ID              0
+Customer_Name            0
+Age                      0
+Age_Group                0
+Gender                   0
+City                     0
+Product                  0
+Category                 0
+Quantity                 0
+Unit_Price               0
+Total_Sales              0
+Is_Sales_Outlier         0
+Age_Imputed              0
+City_Imputed             0
+Is_Duplicate_ID_Fixed    0
+
+Final shape: 1000 rows x 21 columns

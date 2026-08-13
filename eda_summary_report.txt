@@ -1,7 +1,0 @@
-EDA SUMMARY REPORT
-========================================
-
-Total Records: 1000
-Total Revenue: 139,399,439.65
-Average Order Value: 139,399.44
-Duplicate Rows: 0
