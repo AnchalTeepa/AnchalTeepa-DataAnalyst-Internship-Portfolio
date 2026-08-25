@@ -150,7 +150,7 @@ Task2-EDA-BI/
 B.Tech (Computer Science & Engineering) | Aspiring Data Analyst
 
 * GitHub: https://github.com/AnchalTeepa
-* LinkedIn: https://www.linkedin.com/
+* LinkedIn:https://www.linkedin.com/in/anchal-teepa/
 
 ---
 
