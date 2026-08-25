@@ -22,8 +22,8 @@ The project combines **Python-based data analysis** with an **interactive Micros
 ---
 
 ## 📊 Dashboard Preview
+<img width="1432" height="932" alt="image" src="https://github.com/user-attachments/assets/26ffa71a-48c8-4cb6-acb7-d3757570a44e" />
 
-c:\Users\Ancha\OneDrive\Pictures\Screenshots 1\dashboard_preview.png.png
 
 ---
 
@@ -148,3 +148,13 @@ Task3-Deep-Dive-Analysis/
 ├── deep_dive_report.md
 ├── dashboard_preview.png
 └── README.md
+
+## Author
+
+**Anchal Teepa**
+B.Tech (Computer Science & Engineering) | Aspiring Data Analyst
+
+* GitHub: https://github.com/AnchalTeepa
+* LinkedIn:https://www.linkedin.com/in/anchal-teepa/
+
+---
