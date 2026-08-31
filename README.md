@@ -38,8 +38,8 @@ This project demonstrates a complete analytics workflow:
 
 ## 📑 Final Presentation
 
-[View Final Sales Analytics Presentation]([./Task5-Capstone-Portfolio/Final_Sales_Analytics_Presentation.pptx](https://github.com/AnchalTeepa/AnchalTeepa-DataAnalyst-Internship-Portfolio/blob/main/Task5-Capstone-Portfolio/Final_Sales_Analytics_Presentation.pptx))
+[View Final Sales Analytics Presentation](Task5-Capstone-Portfolio/Final_Sales_Analytics_Presentation.pptx)
 
 ## 📚 Key Learnings
 
-[View Key Learnings & Technical Skills]([./Task5-Capstone-Portfolio/KEY_LEARNINGS.md](https://github.com/AnchalTeepa/AnchalTeepa-DataAnalyst-Internship-Portfolio/blob/main/Task5-Capstone-Portfolio/KEY_LEARNINGS.md))
+[View Key Learnings & Technical Skills](Task5-Capstone-Portfolio/KEY_LEARNINGS.md)
